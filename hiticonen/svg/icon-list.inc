@@ -56,15 +56,16 @@ declare -a iconlist=(\
  "hit_icon_vraagt" \
  "hit_icon_idee" \
  "hit_icon_geenalcohol" \
+ "hit_icon_nietroken" \
 
  "hit_icon_vol" \
  "hit_icon_todo" \
  "hit_icon_info" \
  "hit_icon_web" \
- "hit_icon_aantaldagen1" \
- "hit_icon_aantaldagen2" \
- "hit_icon_aantaldagen3" \
- "hit_icon_aantaldagen4" \
+ "hit_icon_aantalnacht1" \
+ "hit_icon_aantalnacht2" \
+ "hit_icon_aantalnacht3" \
+ "hit_icon_aantalnacht4" \
 
  "hit_icon_auto" \
  "hit_icon_bootslaap" \

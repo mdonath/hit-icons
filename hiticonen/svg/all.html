@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="nl" dir="ltr">
+<head>
+    <meta charset="utf-8">
+
+<style>
+body {
+	background-color: green;
+}
+td.icon {
+	background-color: white;
+	padding: 0px;
+}
+
+img {
+	display: block;
+}
+</style>
+<script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
+
+<script>
+var hiticons = [
+  "hit_icon_0km"
+, "hit_icon_5km"
+, "hit_icon_10km"
+, "hit_icon_15km"
+, "hit_icon_20km"
+, "hit_icon_25km"
+, "hit_icon_30km"
+, "hit_icon_35km"
+, "hit_icon_35km"
+, "hit_icon_40km"
+, "hit_icon_45km"
+, "hit_icon_50km"
+, "hit_icon_55km"
+, "hit_icon_60km"
+, "hit_icon_65km"
+, "hit_icon_70km"
+, "hit_icon_75km"
+, "hit_icon_80km"
+, "hit_icon_85km"
+, "hit_icon_90km"
+, "hit_icon_100km"
+, "hit_icon_120km"
+, "hit_icon_150km"
+
+, "hit_icon_0pers"
+, "hit_icon_groepje"
+
+, "hit_icon_k_ks"
+, "hit_icon_k_kv"
+, "hit_icon_k_kgv"
+
+, "hit_icon_geenrugz"
+, "hit_icon_hike"
+, "hit_icon_hikevr"
+
+, "hit_icon_staand"
+, "hit_icon_tent"
+, "hit_icon_nacht"
+, "hit_icon_gebouw"
+, "hit_icon_friet"
+, "hit_icon_tent_opgezet"
+
+, "hit_icon_gas"
+, "hit_icon_opvuur"
+, "hit_icon_stafkookt"
+, "hit_icon_vuur"
+
+, "hit_icon_buitenland"
+, "hit_icon_geenmobieltje"
+, "hit_icon_insigne"
+, "hit_icon_mobieltje"
+, "hit_icon_rolstoel"
+, "hit_icon_vraagt"
+, "hit_icon_idee"
+, "hit_icon_geenalcohol"
+
+, "hit_icon_vol"
+, "hit_icon_todo"
+, "hit_icon_info"
+, "hit_icon_web"
+, "hit_icon_aantalnacht1"
+, "hit_icon_aantalnacht2"
+, "hit_icon_aantalnacht3"
+, "hit_icon_aantalnacht4"
+
+, "hit_icon_auto"
+, "hit_icon_bootslaap"
+, "hit_icon_fiets"
+, "hit_icon_fiets60"
+, "hit_icon_kano"
+, "hit_icon_kano10"
+, "hit_icon_zeilboot"
+, "hit_icon_zwem"
+, "hit_icon_trein"
+, "hit_icon_motor"
+];
+
+$(function() {
+	var tablebody = $("table").find("tbody");
+	$(hiticons).each(function(iconindex, icon) {
+		var row = tablebody.append("<tr>");
+		row.append(
+			$("<td>").append(icon)
+		);
+		$("th.icon").each(function(h, header) {
+			var size = $(header).attr("data-size");
+			row.append($("<td>")
+				.addClass("icon")
+				.append($("<img>")
+					.attr("src", size + "/" + icon.substring(9) + ".png")
+				)
+			);
+		});
+	});
+});
+</script>
+
+</head>
+<body>
+<table>
+	<tr>
+		<th>Naam</th>
+		<th class="icon" data-size="ldpi">25 pixels</th>
+		<th class="icon" data-size="mdpi">48 pixels</th>
+		<th class="icon" data-size="xxxhdpi">178 pixels</th>
+	<tr>
+</table>
+</body>
+
+</html>
+

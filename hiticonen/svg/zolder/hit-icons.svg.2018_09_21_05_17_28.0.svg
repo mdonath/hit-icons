@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="1024"
+   height="1024"
+   id="svg5496"
+   sodipodi:version="0.32"
+   inkscape:version="0.92.3 (unknown)"
+   sodipodi:docname="hit-icons.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata5594">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="1056"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.22627417"
+     inkscape:cx="6.2284157"
+     inkscape:cy="1455.1894"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:current-layer="layer4"
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="false"
+     inkscape:snap-page="true"
+     inkscape:snap-to-guides="true">
+    <sodipodi:guide
+       orientation="horizontal"
+       position="605.72687,-26.431718"
+       id="guide5596"
+       inkscape:locked="false" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid3462" />
+    <sodipodi:guide
+       position="-140.625,512.5"
+       orientation="0,1"
+       id="guide4239"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="512,512"
+       orientation="1,0"
+       id="guide4241"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="256,256"
+       orientation="1,0"
+       id="guide4243"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="768,768"
+       orientation="1,0"
+       id="guide4245"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="768,768"
+       orientation="0,1"
+       id="guide4247"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="256,256"
+       orientation="0,1"
+       id="guide4249"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="1,0"
+       id="guide4251"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1024,1024"
+       orientation="1,0"
+       id="guide4253"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="1024,1024"
+       orientation="0,1"
+       id="guide4255"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,1"
+       id="guide4257"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="669.366,400.58752"
+       orientation="1,0"
+       id="guide4419"
+       inkscape:locked="false"
+       inkscape:label=""
+       inkscape:color="rgb(255,11,0)" />
+    <sodipodi:guide
+       position="1282.3664,2460.5875"
+       orientation="0,1"
+       id="guide4445"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs5498">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 500 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="1000 : 500 : 1"
+       inkscape:persp3d-origin="500 : 333.33333 : 1"
+       id="perspective3931" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Balkjes"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       id="rect4259"
+       width="512"
+       height="50"
+       x="0"
+       y="-150"
+       style="stroke-width:1.67352438" />
+    <rect
+       id="rect4259-2"
+       width="512"
+       height="50"
+       x="515.84076"
+       y="-75"
+       style="stroke-width:1" />
+    <rect
+       id="rect4259-2-7"
+       width="512"
+       height="50"
+       x="-3.1363187e-14"
+       y="-1112.3663"
+       style="stroke-width:1"
+       transform="rotate(90)" />
+    <rect
+       id="rect4259-2-7-3"
+       width="512"
+       height="50"
+       x="512"
+       y="-1182.3663"
+       style="stroke-width:1"
+       transform="rotate(90)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Basis"
+     style="display:inline">
+    <g
+       style="display:inline"
+       id="g-kader"
+       transform="translate(0,-1300.5875)">
+      <rect
+         ry="100"
+         rx="100"
+         y="0"
+         x="0"
+         height="1024"
+         width="1024"
+         id="kader-1"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#005eb0;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:6;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0;marker:none;enable-background:accumulate" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Icons - km"
+     style="display:inline">
+    <g
+       id="g-kader-met-voet"
+       transform="translate(-97.9364,-4639.6769)">
+      <use
+         id="use1000"
+         xlink:href="#g-kader"
+         x="1024"
+         y="0"
+         width="100%"
+         height="100%"
+         transform="translate(-1020,1300.5875)" />
+      <g
+         id="g-voetje"
+         transform="translate(1117.6532,41.214337)">
+        <path
+           id="voetje"
+           d="m -651.04102,66.882812 c -18.23864,0 -26.70027,4.191224 -48.0664,23.810547 -24.07068,22.102691 -57.39046,79.067741 -58.16797,99.445311 -0.17648,4.62207 -3.32999,-0.18316 -7.00781,-10.67969 -8.86166,-25.29063 -31.97968,-42.3431 -50.94922,-37.58203 -42.93933,10.7771 -54.13986,107.97383 -15.9082,138.04688 19.87126,15.63072 37.21956,13.84943 53.49609,-5.49414 l 13.92773,-16.55469 6.91211,16.6875 c 3.80158,9.17787 10.95758,18.9515 15.90235,21.71875 7.30276,4.0868 5.85166,5.78976 -7.73633,9.07227 -21.5913,5.21588 -65.95731,27.38064 -97.96485,48.9414 -45.70518,30.78765 -117.88044,94.14141 -132.61718,116.41016 -12.72459,19.22821 -14.02215,25.461 -10.69336,51.33984 10.16834,79.05127 9.90877,96.39541 -2.07422,138.70508 -15.29722,54.01168 -20.52692,123.91738 -11.69722,156.35547 3.69726,13.58279 13.88725,31.85996 22.64448,40.61719 21.69539,21.69539 63.83878,22.74903 88.25391,2.20507 23.59649,-19.85519 47.32975,-68.60733 73.57617,-151.12695 12.66566,-39.82131 23.0293,-75.11084 23.0293,-78.42187 0,-3.31097 16.75041,-40.06037 37.22266,-81.66602 20.47225,-41.60571 41.27155,-84.11782 46.2207,-94.4707 4.94914,-10.35288 12.03626,-20.03271 15.75,-21.51172 3.71379,-1.47906 14.42848,-16.2918 23.81055,-32.91602 24.51542,-43.43896 22.75597,-69.08412 -5.75196,-83.82617 -8.71768,-4.50806 -24.16844,-8.46688 -34.33593,-8.79687 -17.9592,-0.58288 -17.82059,-0.75026 4.9121,-5.85157 61.00262,-13.68912 120.94303,-127.33026 102.76563,-194.83593 -8.10969,-30.117149 -19.01073,-39.621097 -45.45313,-39.621098 z M -890.64844,204.67578 c -18.398,-0.15974 -34.36985,25.60591 -34.38281,65.4961 -0.006,25.07191 -0.73395,26.42066 -11.21289,20.8125 -35.95255,-19.24122 -58.93898,60.53133 -30.26953,105.04687 10.17276,15.79539 30.87354,16.29318 40.4414,0.97266 3.9956,-6.39807 8.75169,-24.18254 10.56836,-39.52149 2.31541,-19.5498 5.06845,-26.1229 9.20899,-21.98242 10.80892,10.80898 31.07451,6.43231 41.10547,-8.87695 14.5728,-22.24079 13.44759,-86.46924 -1.875,-106.99219 -7.61448,-10.19876 -15.81594,-14.88763 -23.58399,-14.95508 z M -996.9707,375.28516 c -7.0436,0.13919 -14.1067,4.21095 -18.1582,11.78125 -8.389,15.67493 -8.2818,61.28189 0.1816,77.0957 10.0558,18.78937 29.52337,13.30818 38.01957,-10.70508 7.46949,-21.11156 4.74735,-59.32694 -5.06836,-71.1543 -4.02981,-4.85557 -9.49626,-7.12583 -14.97461,-7.01757 z"
+           style="fill:#ffffff;fill-opacity:1"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       style="display:inline"
+       id="hit_icon_0km"
+       transform="translate(-56.134473,-4260.5875)">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(1257.57,4255.6769)"
+         id="use1001-0"
+         xlink:href="#g-kader-met-voet"
+         y="0"
+         x="0" />
+      <text
+         id="text-icon-km5-8"
+         y="516.4679"
+         x="1828.512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           y="516.4679"
+           x="1828.512"
+           id="tspan1000-12"
+           sodipodi:role="line">0</tspan></text>
+    </g>
+    <g
+       id="hit_icon_5km"
+       transform="translate(967.86555,-4260.5875)">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(1257.57,4255.6769)"
+         id="use1001"
+         xlink:href="#g-kader-met-voet"
+         y="0"
+         x="0" />
+      <text
+         id="text-icon-km5"
+         y="516.4679"
+         x="1828.512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           y="516.4679"
+           x="1828.512"
+           id="tspan1000"
+           sodipodi:role="line">5</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="hit_icon_10km"
+       transform="translate(1991.8656,-4260.5875)">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(1257.57,4255.6769)"
+         id="use1001-1"
+         xlink:href="#g-kader-met-voet"
+         y="0"
+         x="0" />
+      <text
+         id="text-icon-km10"
+         y="516.4679"
+         x="1828.512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:sans-serif;-inkscape-font-specification:Sans;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:373.33334351px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           y="516.4679"
+           x="1828.512"
+           id="tspan1000-4"
+           sodipodi:role="line">10</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="hit_icon_15km"
+       transform="translate(3015.8656,-4260.5875)">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(1257.57,4255.6769)"
+         id="use1001-8"
+         xlink:href="#g-kader-met-voet"
+         y="0"
+         x="0" />
+      <text
+         id="text-icon-km15"
+         y="516.4679"
+         x="1828.512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           y="516.4679"
+           x="1828.512"
+           id="tspan1000-5"
+           sodipodi:role="line">15</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="hit_icon_20km"
+       transform="translate(2945.929,-4255.6768)">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(2351.5064,4250.7662)"
+         id="use1001-3"
+         xlink:href="#g-kader-met-voet"
+         y="0"
+         x="0" />
+      <text
+         id="text-icon-km5-6"
+         y="511.55719"
+         x="2922.4485"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           y="511.55719"
+           x="2922.4485"
+           id="tspan1000-1"
+           sodipodi:role="line">20</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="hit_icon_25km"
+       transform="translate(5063.8655,-4260.5875)">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(1257.57,4255.6769)"
+         id="use1001-0-9"
+         xlink:href="#g-kader-met-voet"
+         y="0"
+         x="0" />
+      <text
+         id="text-icon-km5-8-2"
+         y="516.4679"
+         x="1828.512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           y="516.4679"
+           x="1828.512"
+           id="tspan1000-12-7"
+           sodipodi:role="line">25</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="hit_icon_30km"
+       transform="translate(6087.8655,-4260.5875)">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(1257.57,4255.6769)"
+         id="use1001-0-5"
+         xlink:href="#g-kader-met-voet"
+         y="0"
+         x="0" />
+      <text
+         id="text-icon-km5-8-24"
+         y="516.4679"
+         x="1828.512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           y="516.4679"
+           x="1828.512"
+           sodipodi:role="line"
+           id="tspan4649">30</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="hit_icon_35km"
+       transform="translate(7111.8655,-4260.5875)">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(1257.57,4255.6769)"
+         id="use1001-0-8"
+         xlink:href="#g-kader-met-voet"
+         y="0"
+         x="0" />
+      <text
+         id="text-icon-km5-8-6"
+         y="516.4679"
+         x="1828.512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           y="516.4679"
+           x="1828.512"
+           id="tspan1000-12-0"
+           sodipodi:role="line">35</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="hit_icon_40km"
+       transform="translate(8135.8656,-4260.5875)"
+       inkscape:label="hit_icon_40km">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(1257.57,4255.6769)"
+         id="use1001-0-92"
+         xlink:href="#g-kader-met-voet"
+         y="0"
+         x="0" />
+      <text
+         id="text-icon-km5-8-23"
+         y="516.4679"
+         x="1828.512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           y="516.4679"
+           x="1828.512"
+           id="tspan1000-12-1"
+           sodipodi:role="line">40</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="hit_icon_45km"
+       transform="translate(9159.8656,-4260.5875)"
+       inkscape:label="hit_icon_45km">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(1257.57,4255.6769)"
+         id="use1001-34"
+         xlink:href="#g-kader-met-voet"
+         y="0"
+         x="0" />
+      <text
+         id="text-icon-km5-2"
+         y="516.4679"
+         x="1828.512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           y="516.4679"
+           x="1828.512"
+           id="tspan1000-2"
+           sodipodi:role="line">45</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="hit_icon_50km"
+       transform="translate(10183.866,-4260.5875)"
+       inkscape:label="hit_icon_50km">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(1257.57,4255.6769)"
+         id="use1001-5"
+         xlink:href="#g-kader-met-voet"
+         y="0"
+         x="0" />
+      <text
+         id="text-icon-km5-1"
+         y="516.4679"
+         x="1828.512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           y="516.4679"
+           x="1828.512"
+           id="tspan1000-7"
+           sodipodi:role="line">50</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="hit_icon_55km"
+       transform="translate(11207.866,-4260.5875)"
+       inkscape:label="hit_icon_55km">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(1257.57,4255.6769)"
+         id="use1001-7"
+         xlink:href="#g-kader-met-voet"
+         y="0"
+         x="0" />
+      <text
+         id="text-icon-km5-16"
+         y="516.4679"
+         x="1828.512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           y="516.4679"
+           x="1828.512"
+           id="tspan1000-9"
+           sodipodi:role="line">55</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="hit_icon_60km"
+       transform="translate(12231.866,-4260.5875)"
+       inkscape:label="hit_icon_60km">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(1257.57,4255.6769)"
+         id="use1001-33"
+         xlink:href="#g-kader-met-voet"
+         y="0"
+         x="0" />
+      <text
+         id="text-icon-km5-3"
+         y="516.4679"
+         x="1828.512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           y="516.4679"
+           x="1828.512"
+           id="tspan1000-79"
+           sodipodi:role="line">60</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="hit_icon_65km"
+       transform="translate(13255.866,-4260.5875)"
+       inkscape:label="hit_icon_65km">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(1257.57,4255.6769)"
+         id="use1001-70"
+         xlink:href="#g-kader-met-voet"
+         y="0"
+         x="0" />
+      <text
+         id="text-icon-km5-4"
+         y="516.4679"
+         x="1828.512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           y="516.4679"
+           x="1828.512"
+           id="tspan1000-8"
+           sodipodi:role="line">65</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="hit_icon_70km"
+       transform="translate(14279.866,-4260.5875)"
+       inkscape:label="hit_icon_70km">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(1257.57,4255.6769)"
+         id="use1001-16"
+         xlink:href="#g-kader-met-voet"
+         y="0"
+         x="0" />
+      <text
+         id="text-icon-km5-85"
+         y="516.4679"
+         x="1828.512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           y="516.4679"
+           x="1828.512"
+           id="tspan1000-21"
+           sodipodi:role="line">70</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="hit_icon_75km"
+       transform="translate(15300.612,-4260.5875)"
+       inkscape:label="hit_icon_75km">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(1257.57,4255.6769)"
+         id="use1001-9"
+         xlink:href="#g-kader-met-voet"
+         y="0"
+         x="0" />
+      <text
+         id="text-icon-km5-60"
+         y="516.4679"
+         x="1828.512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           y="516.4679"
+           x="1828.512"
+           id="tspan1000-6"
+           sodipodi:role="line">75</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="hit_icon_80km"
+       transform="translate(16324.612,-4260.5875)"
+       inkscape:label="hit_icon_80km">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(1257.57,4255.6769)"
+         id="use1001-90"
+         xlink:href="#g-kader-met-voet"
+         y="0"
+         x="0" />
+      <text
+         id="text-icon-km5-89"
+         y="516.4679"
+         x="1828.512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           y="516.4679"
+           x="1828.512"
+           id="tspan1000-3"
+           sodipodi:role="line">80</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="hit_icon_85km"
+       transform="translate(17348.612,-4260.5875)"
+       inkscape:label="hit_icon_85km">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(1257.57,4255.6769)"
+         id="use1001-4"
+         xlink:href="#g-kader-met-voet"
+         y="0"
+         x="0" />
+      <text
+         id="text-icon-km5-896"
+         y="516.4679"
+         x="1828.512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           y="516.4679"
+           x="1828.512"
+           id="tspan1000-77"
+           sodipodi:role="line">85</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="hit_icon_90km"
+       transform="translate(18372.612,-4260.5875)"
+       inkscape:label="hit_icon_90km">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(1257.57,4255.6769)"
+         id="use1001-71"
+         xlink:href="#g-kader-met-voet"
+         y="0"
+         x="0" />
+      <text
+         id="text-icon-km5-22"
+         y="516.4679"
+         x="1828.512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           y="516.4679"
+           x="1828.512"
+           id="tspan1000-15"
+           sodipodi:role="line">90</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="hit_icon_100km"
+       transform="translate(19396.612,-4260.5875)"
+       inkscape:label="hit_icon_100km">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(1257.57,4255.6769)"
+         id="use1001-904"
+         xlink:href="#g-kader-met-voet"
+         y="0"
+         x="0" />
+      <text
+         id="text-icon-km5-0"
+         y="516.4679"
+         x="1828.512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:346.66665649px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           y="516.4679"
+           x="1828.512"
+           id="tspan1000-13"
+           sodipodi:role="line">100</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="hit_icon_120km"
+       transform="translate(20420.612,-4260.5875)"
+       inkscape:label="hit_icon_120km">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(1257.57,4255.6769)"
+         id="use1001-904-5"
+         xlink:href="#g-kader-met-voet"
+         y="0"
+         x="0" />
+      <text
+         id="text-icon-km5-0-6"
+         y="516.4679"
+         x="1828.512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:346.66665649px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           y="516.4679"
+           x="1828.512"
+           id="tspan1000-13-1"
+           sodipodi:role="line">120</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="hit_icon_150km"
+       transform="translate(21444.612,-4260.5875)"
+       inkscape:label="hit_icon_150km">
+      <use
+         height="100%"
+         width="100%"
+         transform="translate(1257.57,4255.6769)"
+         id="use1001-904-5-2"
+         xlink:href="#g-kader-met-voet"
+         y="0"
+         x="0" />
+      <text
+         id="text-icon-km5-0-6-2"
+         y="516.4679"
+         x="1828.512"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:400px;line-height:0%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:346.66665649px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none"
+           y="516.4679"
+           x="1828.512"
+           id="tspan1000-13-1-9"
+           sodipodi:role="line">150</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Icons - inschrijven per">
+    <g
+       id="hit_icon_0pers">
+      <use
+         style="display:inline"
+         transform="translate(-1016.4338,-1541.0979)"
+         height="100%"
+         width="100%"
+         y="0"
+         x="1024"
+         xlink:href="#g-kader"
+         id="use1000-8" />
+      <g
+         id="g4992"
+         transform="translate(-114.676,-2779.4891)">
+        <path
+           sodipodi:nodetypes="ssssccccsssszzszzcssscscscsscccs"
+           inkscape:connector-curvature="0"
+           id="path4923"
+           d="m 626.6766,639.4935 c 0,-111.6804 0.4077,-115.6337 11.9258,-115.6337 11.3908,0 12.6686,32.0225 12.6686,116.1905 0,48.4667 2.3946,72.3051 3.0492,87.5645 l 0.7955,27.3453 c 16.4836,0.4469 32.9644,0.3057 49.4498,0.1671 l -2.908,-185.3104 -2.9081,-185.3104 13.1115,63.7468 C 723.7227,505.9247 726.2169,512 738.0331,512 c 17.6891,0 21.3874,-14.9878 16.4374,-66.6143 -8.5514,-89.1867 -35.5515,-142.9522 -83.3969,-166.0688 -24.8045,-11.9843 -28.4826,-11.3541 -12.8405,-18.9993 15.6421,-7.6453 35.4854,-42.4724 30.6945,-66.959 -4.791,-24.4867 -33.7966,-49.0145 -61.8876,-49.0145 -28.4554,0 -57.7312,25.0916 -63.0148,49.0145 -5.2836,23.9228 21.9498,62.5512 31.626,67.258 9.6761,4.7067 13.6964,6.6623 13.6964,6.6623 l -16.8361,3.3486 c -25.0075,4.9738 -46.5812,24.4784 -62.0349,56.0851 -11.7313,23.9935 -14.1084,39.7317 -16.1186,106.7157 L 512,512 h 15.5979 c 8.5789,0 15.7648,-0.6672 15.9686,-1.4825 0.2038,-0.8154 5.0484,-28.1672 10.7657,-60.7819 l 10.3949,-59.2993 4.127,130.4585 c 2.2699,71.7523 4.1337,153.8077 4.1417,182.3455 l 0.014,51.8869 h 26.8331 26.8331 z"
+           style="fill:#ffffff;fill-opacity:1" />
+      </g>
+    </g>
+    <image
+       y="1050.4318"
+       x="-43.75"
+       id="image5002"
+       xlink:href="data:image/png;base64,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
+gg==
+"
+       preserveAspectRatio="none"
+       height="1067.75"
+       width="1067.75" />
+    <g
+       id="hit_icon_groepje">
+      <use
+         transform="translate(0,1300.5875)"
+         height="100%"
+         width="100%"
+         id="use5005-vlak"
+         xlink:href="#g-kader"
+         y="0"
+         x="0" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g4992"
+         id="use-grp-p3"
+         width="100%"
+         height="100%"
+         transform="translate(85.2926,3018.3952)" />
+      <use
+         transform="translate(-333.8895,2792.3619)"
+         height="100%"
+         width="100%"
+         id="use-grp-p1"
+         xlink:href="#g4992"
+         y="0"
+         x="0"
+         inkscape:transform-center-x="-156.25"
+         inkscape:transform-center-y="75" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#path4923"
+         id="use5041"
+         width="100%"
+         height="100%"
+         transform="translate(255.9994,2907.9956)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g4992"
+         id="use-grp-p2"
+         width="100%"
+         height="100%"
+         transform="translate(-124.0734,2862.4827)" />
+    </g>
+  </g>
+</svg>
