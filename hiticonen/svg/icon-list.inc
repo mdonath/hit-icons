@@ -57,6 +57,7 @@ declare -a iconlist=(\
  "hit_icon_idee" \
  "hit_icon_geenalcohol" \
  "hit_icon_nietroken" \
+ "hit_icon_meiden" \
 
  "hit_icon_vol" \
  "hit_icon_todo" \
@@ -77,4 +78,5 @@ declare -a iconlist=(\
  "hit_icon_zwem" \
  "hit_icon_trein" \
  "hit_icon_motor" \
+ "hit_icon_lucht" \
 )
