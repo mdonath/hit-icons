@@ -22,6 +22,6 @@ do
     # strip prefix
     filename=${icon:9}
     echo "Creating $icon at $size x $size pixels"
-    inkscape ${inputfile} --export-id $icon -e "${outputdir}"/$filename.png -w $size -h $size
+    inkscape ${inputfile} --export-id $icon --export-type=png --export-filename="${outputdir}"/$filename.png -w $size -h $size
   done
 done

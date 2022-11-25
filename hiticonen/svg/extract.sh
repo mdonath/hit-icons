@@ -9,6 +9,6 @@ mkdir $OUTPUTDIR
 for icon in "${iconlist[@]}"
 do
   echo "$icon"
-  inkscape hit-icons.svg --export-id=$icon --export-id-only --vacuum-defs --export-plain-svg=$OUTPUTDIR/$icon.svg
+  inkscape hit-icons.svg --export-id=$icon --export-id-only --vacuum-defs --export-plain-svg --export-type=svg --export-filename=$OUTPUTDIR/$icon.svg
 done
 
