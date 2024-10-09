@@ -7,7 +7,7 @@
    height="192"
    id="svg5496"
    sodipodi:version="0.32"
-   inkscape:version="1.2.1 (1:1.2.1+202210291244+9c6d41e410)"
+   inkscape:version="1.2.2 (1:1.2.2+202212051550+b0a8486541)"
    sodipodi:docname="hit-icons.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -42,12 +42,12 @@
      showgrid="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="1.450075"
-     inkscape:cx="1357.1712"
-     inkscape:cy="-1244.4184"
+     inkscape:zoom="1.0469694"
+     inkscape:cx="1679.6097"
+     inkscape:cy="-153.29961"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:current-layer="hit_icon_kano50"
+     inkscape:current-layer="hit_icon_loterij"
      inkscape:window-maximized="1"
      inkscape:snap-grids="true"
      inkscape:snap-page="true"
@@ -1653,6 +1653,112 @@
            x="3505.2432"
            id="tspan3664"
            sodipodi:role="line">VOL</tspan></text>
+    </g>
+    <g
+       id="hit_icon_loterij"
+       transform="translate(-1814.5162,-1456.1446)"
+       style="display:inline">
+      <circle
+         r="87.070984"
+         cy="2000.6693"
+         cx="3574.6858"
+         id="path3468-5-7"
+         style="fill:#ffffff;fill-opacity:1;stroke-width:0.226747" />
+      <path
+         id="rect725"
+         style="fill:#ff0000;stroke:none;stroke-width:0.769754"
+         d="m 3560.9289,1913.6632 h 32.621 l -16.9166,87.0032 16.9166,90.5455 h -32.621 l 13.7207,-90.2786 z"
+         sodipodi:nodetypes="ccccccc" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect725"
+         id="use2227"
+         transform="rotate(90,3577.2394,2001.8054)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect725"
+         id="use2229"
+         transform="rotate(45,3577.2394,2002.4375)" />
+      <use
+         x="0"
+         y="0"
+         xlink:href="#rect725"
+         id="use2231"
+         transform="matrix(0.71208949,-0.71208949,0.71208949,0.71208949,-396.51354,3123.3138)" />
+      <path
+         id="path3468-6"
+         style="opacity:1;vector-effect:none;fill:#ffcc00;fill-opacity:1;stroke:none;stroke-width:0.1875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 3574.6861 1904.67 A 96 96 0 0 0 3478.6861 2000.67 A 96 96 0 0 0 3574.6861 2096.67 A 96 96 0 0 0 3670.6861 2000.67 A 96 96 0 0 0 3574.6861 1904.67 z M 3574.6861 1913.5977 A 87.070984 87.070984 0 0 1 3661.7564 2000.67 A 87.070984 87.070984 0 0 1 3574.6861 2087.7403 A 87.070984 87.070984 0 0 1 3487.6139 2000.67 A 87.070984 87.070984 0 0 1 3574.6861 1913.5977 z " />
+      <circle
+         style="fill:#ffcc00;stroke:none;stroke-width:0.999999;fill-opacity:1"
+         id="path4846"
+         cx="3574.5737"
+         cy="1999.7988"
+         r="12.258148" />
+      <g
+         id="g8717">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:13.3333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+           x="3630.667"
+           y="2004.0305"
+           id="text7190"><tspan
+             sodipodi:role="line"
+             id="tspan7188"
+             x="3630.667"
+             y="2004.0305"
+             style="font-weight:bold;font-size:13.3333px">HIT</tspan></text>
+        <use
+           x="0"
+           y="0"
+           xlink:href="#text7190"
+           id="use7968"
+           transform="rotate(45,3573.3882,2000.6327)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use7968"
+           id="use7970"
+           transform="rotate(45,3574.7844,2002.5607)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use7970"
+           id="use7972"
+           transform="rotate(45,3575.8155,2003.1205)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use7972"
+           id="use8700"
+           transform="rotate(45,3578.3938,1997.5218)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use8700"
+           id="use8702"
+           transform="rotate(45,3575.5577,1999.6989)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use8702"
+           id="use8704"
+           transform="rotate(45,3577.8678,2002.1429)" />
+        <use
+           x="0"
+           y="0"
+           xlink:href="#use8704"
+           id="use8706"
+           transform="rotate(45,3573.186,1998.5479)" />
+      </g>
+      <use
+         x="0"
+         y="0"
+         xlink:href="#g8717"
+         id="use8719"
+         transform="rotate(23.037009,3574.4552,1999.4779)" />
     </g>
     <g
        id="hit_icon_geenalcohol"

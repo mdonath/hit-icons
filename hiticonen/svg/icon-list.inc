@@ -1,6 +1,7 @@
 #!/bin/bash
 
 declare -a iconlist=(\
+ "hit_icon_loterij" \
  "hit_icon_0km" \
  "hit_icon_5km" \
  "hit_icon_10km" \
